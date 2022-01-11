@@ -3,7 +3,9 @@ Hi, I’m Andrey Alexeev. I’m interested in web developmen and currently learn
 
 📫 How to reach me:
 https://t.me/AndreyAlexeev98
+
 ipalexeev98@mail.ru
+
 +7(905)-233-28-24
 
 
