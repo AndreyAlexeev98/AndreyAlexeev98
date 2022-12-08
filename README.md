@@ -1,5 +1,5 @@
 👋 
-Hi, I’m Andrey Alexeev. I’m interested in web developmen and currently learning JavaScript. I am currently working as a webmaster and technical support engineer
+Hi, I'm Andrey Alekseev. I am interested in web development, my specialization is to create web interfaces. I am currently working as a Front-end developer at Picasso.
 
 📫 How to reach me:
 
