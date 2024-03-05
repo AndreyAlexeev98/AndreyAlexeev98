@@ -1,5 +1,5 @@
 👋 
-Hi, I'm Andrey Alekseev. I am interested in web development, my specialization is to create web interfaces. I am currently working as a Front-end developer at Picasso.
+Hi, I'm Andrey Alekseev. I am interested in web development, my specialization is to create web interfaces.
 
 📫 How to reach me:
 
