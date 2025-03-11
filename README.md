@@ -3,7 +3,7 @@ Hi, I'm Andrey Alekseev. I am interested in web development, my specialization i
 
 📫 How to reach me:
 
-https://t.me/AndreyAlexeev98
+https://t.me/aalex198
 
 ipalexeev98@mail.ru
 
